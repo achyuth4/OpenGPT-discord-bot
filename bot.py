@@ -267,6 +267,8 @@ async def on_guild_remove(guild):
     await db.execute("DELETE FROM database WHERE guilds = ?", (guild.id,))
     await db.commit()
 
+TOKEN='MTA5NzQyMTI3MzYzMTU2MzgyNg.GYIVWF.du-XnRiDGL8QAceWcxr3NeBHaHjIZqxReI1QLE'
+
 
 if __name__ == "__main__":
     TOKEN = ""
