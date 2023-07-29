@@ -9,8 +9,6 @@ Discord chatbot and image generator powered by freeGPT.
 - Add the [OpenGPT Discord bot](https://discord.com/api/oauth2/authorize?client_id=1133738170752712744&permissions=8&scope=applications.commands%20bot)
 - Join my [Discord Server](https://discord.gg/aN4mcx7pga)
 
-[Click Here to Join Server](https://discord.gg/aN4mcx7pga)
-
 ## Running the code:
 ##### 1. Download the code and extract it, and create a discord account if you still haven't.
 ##### 2. Make sure you have Python installed on your computer. If its not installed [Download Python here](https://www.python.org/downloads/).
