@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ##### 5. Navigate to the "Bot" tab and click "Add Bot". Enable all intents then finally press "Save Changes".
 ##### 6. Copy the bot token, go to bot.py and go to the end of the code, put the TOKEN here:
 ```python
-TOKEN = "" # Put your token in the ""
+TOKEN = "your bot token here"
 ```
 ##### 7. Run bot.py:
 ```
