@@ -266,9 +266,8 @@ async def on_app_command_error(interaction, error):
 async def on_guild_remove(guild):
     await db.execute("DELETE FROM database WHERE guilds = ?", (guild.id,))
     await db.commit()
-
-TOKEN=''
+    
 
 if __name__ == "__main__":
-    TOKEN = ""
+    TOKEN = "M1EzNDc1NDQ0MDA3OTk5ODk4Ng.G0Rchw.cNt7isW2I8ZmDj2Ly00UprA_S6DxMz_fVnXxVU"
     run(bot.run(TOKEN))
