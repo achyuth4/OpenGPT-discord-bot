@@ -7,7 +7,7 @@ Discord chatbot and image generator powered by freeGPT.
 
 - Star this & [the original](https://github.com/achyuth4/OpenGPT) repository :D
 - Add the [OpenGPT Discord bot](https://discord.com/api/oauth2/authorize?client_id=1133738170752712744&permissions=8&scope=applications.commands%20bot)
-- Join my [Discord Server](https://discord.gg/XH6pUGkwRr):
+- Join my [Discord Server]([https://discord.gg/aN4mcx7pga]):
 
 [Click Here to Join Server](https://discord.gg/aN4mcx7pga)
 
