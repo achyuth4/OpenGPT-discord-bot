@@ -9,7 +9,7 @@ Discord chatbot and image generator powered by freeGPT.
 - Add the [freeGPT Discord bot](https://dsc.gg/freegpt).
 - Join my [Discord Server](https://discord.gg/XH6pUGkwRr):
 
-(Click Here to Join Server)[https://discord.gg/aN4mcx7pga]
+[Click Here to Join Server](https://discord.gg/aN4mcx7pga)
 
 ## Running the code:
 ##### 1. Download the code and extract it, and create a discord account if you still haven't.
