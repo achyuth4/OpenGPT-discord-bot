@@ -1,7 +1,7 @@
 ##### The OpenGPT bot has been verified, invite it [here](https://discord.com/oauth2/authorize?client_id=1133738170752712744&permissions=8&scope=applications.commands%20bot)
 # freeGPT-discord-bot
 
-Discord chatbot and image generator powered by freeGPT.
+Discord chatbot and image generator powered by OpenGPT.
 
 ## Support this repository:
 
